@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/delton/static/css/main.6a8df083.chunk.css",
+    "main.js": "/delton/static/js/main.24a2362f.chunk.js",
+    "main.js.map": "/delton/static/js/main.24a2362f.chunk.js.map",
+    "runtime-main.js": "/delton/static/js/runtime-main.6d533a4c.js",
+    "runtime-main.js.map": "/delton/static/js/runtime-main.6d533a4c.js.map",
+    "static/js/2.21782694.chunk.js": "/delton/static/js/2.21782694.chunk.js",
+    "static/js/2.21782694.chunk.js.map": "/delton/static/js/2.21782694.chunk.js.map",
+    "index.html": "/delton/index.html",
+    "precache-manifest.046c7ac1a79a368c69752fabf7bdbd2c.js": "/delton/precache-manifest.046c7ac1a79a368c69752fabf7bdbd2c.js",
+    "service-worker.js": "/delton/service-worker.js",
+    "static/css/main.6a8df083.chunk.css.map": "/delton/static/css/main.6a8df083.chunk.css.map",
+    "static/js/2.21782694.chunk.js.LICENSE.txt": "/delton/static/js/2.21782694.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/delton/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/delton/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d533a4c.js",
+    "static/js/2.21782694.chunk.js",
+    "static/css/main.6a8df083.chunk.css",
+    "static/js/main.24a2362f.chunk.js"
+  ]
+}
